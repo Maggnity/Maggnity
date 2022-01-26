@@ -3,8 +3,8 @@
 - 🔭 I’m currently working on NETFLIX clone and jogo-de-naves
 - 🌱 I’m currently learning JS, React, Boostrap.
 
-![HTML5](svg/html.png "HTML5")
-![CSS3](svg/css-3.png "CSS3")
-![GIT](svg/git-seeklogo.svg "Git")
-![GITHUB](svg/github.png "GitHub")
-![NODE](svg/node-js.png "NODE")
+<img src="svg/html.png" alt="drawing" width="200"/>
+<img src="svg/css-3.png" alt="drawing" width="200"/>
+<img src="svg/js.png" alt="drawing" width="200"/>
+<img src="svg/node-js.png" alt="drawing" width="200"/>
+<img src="svg/sass.png" alt="drawing" width="200"/>
