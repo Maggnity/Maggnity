@@ -13,4 +13,6 @@ Welcome to my personal repository on Github, heare I post my personal project fi
 
 What motivates me is the good feeling I get when I complete a challenge, because with each challenge I feel able to solve bigger problems.
 
+<div width="100%" display="flex" justifyContent="center">
 <img width="50" src="svg/pngegg.png"/><img width="50" src="svg/react-1.png"/><img width="50" src="svg/mysql.png"/><img src="svg/js.png" alt="drawing" width="50"/><img src="svg/node-js.png" alt="drawing" width="50"/><img src="svg/sass.png" alt="drawing" width="50"/><img src="svg/html.png" alt="drawing" width="50"/><img src="svg/css-3.png" alt="drawing" width="50"/>
+</div>
