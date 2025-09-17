@@ -5,7 +5,7 @@ Bem vindo ao meu perfil!
 <div width="100%" display="flex" justifyContent="center">
 
 <div style="margin-bottom: 40px">
-<a href="https://github.com/Maggnity/github-readme-stats">
+<a href="https://github.com/Maggnity">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Maggnity&show_icons=true&theme=merko" />
 </a>
 <a href="https://github.com/Maggnity/convoychat">
