@@ -18,26 +18,6 @@ Desenvolvedor focado em <b>Java | React | TypeScript | Cloud</b>
 
 ---
 
-# 📊 Estatísticas
-
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Maggnity&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maggnity&layout=compact&langs_count=7&theme=merko"/>
-
-</p>
-
----
-
-# 📈 Atividade
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Maggnity&theme=merko"/>
-</p>
-
----
-
 # 🧠 Tecnologias
 
 <p align="center">
@@ -51,14 +31,6 @@ Desenvolvedor focado em <b>Java | React | TypeScript | Cloud</b>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="45"/>
 
-</p>
-
----
-
-# 🐍 Contribuições
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/Maggnity/Maggnity/output/github-contribution-grid-snake.svg"/>
 </p>
 
 ---
@@ -88,16 +60,3 @@ Desenvolvedor focado em <b>Java | React | TypeScript | Cloud</b>
 </p>
 
 ---
-
-# 🚀 Projetos Destacados
-
-🔹 [ConvoyChat](https://github.com/Maggnity/convoychat)  
-Chat moderno construído com tecnologias web modernas.
-
-🔹 [Meu Portfólio](LINK)  
-Portfólio profissional com React + Vite.
-
-🔹 [API Java](LINK)  
-API REST com Spring Boot e arquitetura limpa.
-
-⭐ Sempre aprendendo novas tecnologias e construindo projetos.
