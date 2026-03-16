@@ -89,4 +89,15 @@ Desenvolvedor focado em <b>Java | React | TypeScript | Cloud</b>
 
 ---
 
+# 🚀 Projetos Destacados
+
+🔹 [ConvoyChat](https://github.com/Maggnity/convoychat)  
+Chat moderno construído com tecnologias web modernas.
+
+🔹 [Meu Portfólio](LINK)  
+Portfólio profissional com React + Vite.
+
+🔹 [API Java](LINK)  
+API REST com Spring Boot e arquitetura limpa.
+
 ⭐ Sempre aprendendo novas tecnologias e construindo projetos.
